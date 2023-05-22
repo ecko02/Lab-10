@@ -87,7 +87,7 @@ function challengeGuess(){
         document.getElementById('again').style.display = "block";
         document.getElementById('home').style.display = "block";
     }
-    if(numWrong==25){
+    if(numWrong==7){
         results.style.visibility = "visible";
         results.style.color = "#00b100";
         results.innerHTML = "Чи хожлоо!";        

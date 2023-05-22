@@ -52,7 +52,8 @@ body, html, #category, #category1, #category2, #phrases, #movies, #songs, #chall
         font-size: 35px;
         width: 250px;
         height: 75px;
-        float: center;
+        margin-left: 200px;
+        margin-bottom: 300px;
         line-height: 75px;
         text-align: center;
         color: white;
